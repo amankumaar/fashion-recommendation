@@ -1,0 +1,8 @@
+Flask
+gdown
+numpy
+Pillow
+scikit-learn
+sklearn
+tensorflow
+gunicorn
